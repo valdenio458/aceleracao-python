@@ -34,5 +34,5 @@ def main():
     print(f"Descrição do número {integer}: '{description}'")
 
 
-if __name__ == "__main__":
+if __name__ == "__main__":  # variável nativa
     main()
